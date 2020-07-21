@@ -1,0 +1,57 @@
+#Blaise {
+  color: #2d6838;
+}
+.jumbotron {
+  margin-top: 60px;
+}
+.jumbotron {
+  background: #2d6838;
+}
+hr {
+  background-color: white;
+  height: 1px;
+  border: 0;
+}
+.display-4 {
+  color: #2d6838;
+}
+.container {
+  text-align: center;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background: url("assets/pat4.jpg") no-repeat center center fixed;
+  -webkit-background-size: 100%;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#desc {
+  font-size: 30px;
+}
+#carouselExampleIndicators {
+  width: 70%;
+  height: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  margin-top: 50px;
+}
+
+.h1photo {
+  text-align: center;
+  color: #343a40;
+}
+h5 {
+  text-align: center;
+  font-weight: bold;
+  font-size: x-large;
+}
+#videos {
+  margin-top: 20px;
+}
+#video {
+  margin-bottom: 10px;
+}
